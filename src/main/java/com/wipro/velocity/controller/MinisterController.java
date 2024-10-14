@@ -28,7 +28,7 @@ import com.wipro.velocity.repository.StudentRepository;
 
 @RequestMapping("ministry")
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://thughari.github.io")
 public class MinisterController {
 
 

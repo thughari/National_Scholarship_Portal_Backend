@@ -17,7 +17,7 @@ import com.wipro.velocity.model.StudentApplication;
 import com.wipro.velocity.model.StudentModel;
 
 @RestController
-@CrossOrigin(origins="http://localhost:4200")
+@CrossOrigin(origins="https://thughari.github.io")
 public class StudentController {
 
 	@Autowired
