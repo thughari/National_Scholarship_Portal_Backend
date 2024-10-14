@@ -36,7 +36,7 @@ public class Swagger2Config {
      *
      *  Open in Browser
      *
-     * http://localhost:8989/swagger-ui.html
+     * http://localhost:8989/swagger-ui/index.html
      */
     }
 
